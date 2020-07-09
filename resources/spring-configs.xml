@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+   <!-- 对象bean进行描述，告诉spring框架，这些spring创建或管理 -->
+   <!-- sax dom dom4j  document -->
+   <bean id="date" class="java.util.Date" lazy="true"/>
+   <bean id="obj" class="java.lang.Object" lazy="false"/>
+</beans>
+<!-- xml   htm   html   -->

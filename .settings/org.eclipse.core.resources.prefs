@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//src/com/java/spring/config/SpringConfig.java=UTF-8
+encoding//src/com/java/spring/factory/AnnotationConfigApplicationContext.java=UTF-8
+encoding//src/com/java/spring/factory/ClassPathXmlApplicationContext.java=UTF-8
+encoding//src/com/java/spring/factory/SysLogController.java=UTF-8
+encoding//src/com/java/spring/service/SysLogService.java=UTF-8
+encoding//src/com/java/spring/vo/BeanDefinition.java=UTF-8
+encoding/<project>=US-ASCII
